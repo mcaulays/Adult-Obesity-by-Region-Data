@@ -15,4 +15,4 @@ The findings on adult obesity rates by region can be used to conduct further res
 # Where was this Data Acquired?
 The County Health Dataset was provided to our English 105 class by our instructor, Dr. Gotzler. This data came from the Davis Library Research Hub at UNC Chapel Hill. 
 # Licensing
-This work was made available under the Creative Commons Attribution. CC makes no warrants regarding how this document may be used and does not claim liability for potential damages. Under CC other people may use this publication however they please without threat of copyright. 
+This work was made available under the Creative Commons Attribution. CC makes no warrants regarding how this document may be used and does not claim liability for potential damages. Under CC other people may use this publication however they please without threat of copyright. For more information see the [License file.](LICENSE) 
