@@ -2,7 +2,7 @@
 Unit 3 Final Project for English 105
 # Overview
 This repository provides data and data analysis on the prevalence of Adult obesity in four different regions of the United States. This repository contains two notable folders:
-1. Data: which holds two files, one being the original CountyHealthData_2014-2015.csv County Health Data set, and the second being the manipulated data subset, Adult Obesity by Region.
+1. Data: which holds two files, one being the original CountyHealthData_2014-2015.csv [County Health Data set](url), and the second being the manipulated data subset, Adult Obesity by Region.
 2. Documentation: This folder contains a python notebook that details the process of downloading data, coding to create a new subset of data, and the exportation of the manipulated data with the use of Python3. 
 # What is the Purpose of this Repository?
 Obesity rates are becoming increasingly concerning to many health experts in the United States especially with how common it is that Americans die of Heart Disease. This repository and the data within it was created with the goal of presenting potential factors in what causes the prevalence of Adult Obesity. The purpose of comparing the rates by region of the US was to determine if there was a defining cultural factor that increased the prevalence of obesity. This repository makes this data available to the public so that research and analysis on this subject can be further discussed and conducted. 
